@@ -9,6 +9,7 @@ Penyedia layanan internet dan jaringan terpercaya untuk kebutuhan rumah, RT/RW N
 - Instalasi & Konfigurasi Jaringan
 - Setting MikroTik & Hotspot
 - Perawatan & Troubleshooting
+- Pemasangan CCTV
 
 ## ⏰ Jam Operasional
 Senin – Minggu  
